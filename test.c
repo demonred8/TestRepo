@@ -7,4 +7,10 @@ Code () {
     123 + ABC
 };
 
+Function 123() {
+    Code...
+    ...
+    ...
+};
+
 end of file
